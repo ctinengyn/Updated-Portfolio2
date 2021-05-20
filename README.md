@@ -30,5 +30,5 @@ A portfolio tells the story about a person, the character, and the journey to ov
 **Once again, portfolios are all about demonstrating your technical skills, and creativity as a developer.**
 
 The link below shows my portfolio:
-[Christine's Portfolio](https://ctinengyn.github.io/Portfolio/)
+[Christine's Portfolio](https://ctinengyn.github.io/Updated-Portfolio2/)
 ![Christine's Portfolio](./images/update.jpeg)
