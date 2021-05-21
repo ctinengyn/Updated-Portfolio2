@@ -7,7 +7,7 @@ I have a long history with being involved with coding, when MySpace was a thing 
 
 As I got older it was time to decide what I wanted to do with my career path. I chose to do accounting... I didn't feel passionate with the path I chose and I knew it was time for a change to better my future. I decided to enroll from a coding bootcamp - University of Washington - to learn deeper into coding. 
 
-I am passionate about photography and videography and I love working with anything that can show my creativity. Within a month into bootcamp I learned HTML, CSS and Javascript. I still have a long way to go to fully understand what each code does, but within the next 6 months I can't to see how much I progress I made. I truly believe that learning never stops and it's never too late to make a big change to better the future.
+I am passionate about photography and videography and I love working with anything that can show my creativity. Within four months into bootcamp I learned HTML, CSS, JavaScript, API, Node.js, Express.js, MySQL, Sequelize, and Handlebars. The end of this program I can't to see how much I progress I made. I truly believe that learning never stops and it's never too late to make a big change to better the future.
 
 ## Let's jump into why portfolio's are important ✨
 A portfolio tells the story about a person, the character, and the journey to overcome certain challenges through their work. Displaying your skills and abilities through storytelling is the best way to make that connection and display your value. 
